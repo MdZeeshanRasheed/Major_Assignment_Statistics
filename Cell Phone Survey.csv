@@ -1,0 +1,53 @@
+Gender,Carrier,Type,Usage,Signal strength,Value for the Dollar,Customer Service
+M,AT&T,Smart,High,5,4,4
+M,AT&T,Smart,High,5,4,2
+M,AT&T,Smart,Average,4,4,4
+M,AT&T,Smart,Very high,2,3,3
+M,AT&T,Smart,Very high,5,5,2
+M,AT&T,Smart,Very high,4,3,5
+M,AT&T,Smart,Very high,3,4,4
+F,AT&T,Smart,Very high,3,2,3
+F,AT&T,Smart,Very high,4,3,4
+M,AT&T,Smart,Very high,3,3,1
+M,Other,Smart,Average,1,2,4
+M,Sprint,Smart,Very high,3,5,4
+M,Sprint,Smart,Very high,3,5,3
+F,Sprint,Smart,Average,2,5,4
+F,Sprint,Smart,Average,3,5,4
+M,Verizon,Smart,Average,4,3,3
+F,Verizon,Smart,Very high,4,3,2
+M,Verizon,Smart,Very high,5,5,5
+F,Verizon,Smart,Average,3,3,3
+M,Verizon,Smart,Very high,4,4,2
+F,Verizon,Smart,Very high,4,5,3
+M,AT&T,Camera,Average,5,4,5
+M,AT&T,Camera,Very high,2,1,3
+M,AT&T,Camera,Average,2,4,3
+F,AT&T,Camera,Very high,3,3,3
+M,AT&T,Camera,Average,5,5,3
+F,AT&T,Camera,Average,4,3,3
+M,AT&T,Camera,Average,4,2,4
+F,AT&T,Camera,Very high,2,4,1
+F,AT&T,Camera,Average,2,4,3
+M,AT&T,Camera,Average,3,3,4
+F,AT&T,Camera,Very high,3,2,3
+M,AT&T,Camera,Very high,4,3,3
+F,AT&T,Camera,Low,4,2,3
+M,Other,Camera,Average,3,3,3
+F,Other,Camera,Average,2,3,3
+M,Other,Camera,Average,4,3,4
+M,Sprint,Camera,Average,3,4,4
+F,Verizon,Camera,Very high,3,4,3
+F,Verizon,Camera,Very high,4,3,1
+M,AT&T,Basic,Average,3,3,3
+M,AT&T,Basic,Average,3,3,2
+M,AT&T,Basic,Low,3,3,3
+M,Other,Basic,Average,3,3,5
+M,Other,Basic,Very high,4,3,3
+M,Other,Basic,Very high,1,3,4
+M,Other,Basic,Low,4,4,2
+F,Other,Basic,Average,2,3,3
+F,T-mobile,Basic,Low,3,4,4
+M,T-mobile,Basic,Average,3,4,3
+M,Verizon,Basic,Low,3,3,4
+M,Verizon,Basic,Average,4,2,4
